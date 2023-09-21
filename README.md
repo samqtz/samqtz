@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @samqtz
+- 👀 I’m currently interested in machine learning, embedded software, and data science.
+- 🌱 At the moment, I'm working on 1 portfolio project per month - through the beginning of 2024. 
+- 💞️ I’m looking to collaborate on anything interesting. 
+- 📫 Give me a shout! Let's build something together.
